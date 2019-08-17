@@ -15,8 +15,8 @@ for(i in 1:darts){
 
 areaOfSquare<- 4
 pi1<- incircle/darts *areaOfSquare
-pi1
-incircle
+#pi1
+#incircle
 return(pi1)
 }
 
